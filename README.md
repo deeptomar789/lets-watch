@@ -1,7 +1,7 @@
 <h2>Let's Watch - Moive Suggestion Web App</h2>
 <p>Let's Watch shows you a list of newly released movie of different categories and you can see the details of any movie like rating, about, trailer and related movies.</p>
 
-<h2>Live Demo <a href="https://letswatchbyashish.netlify.app/" target="_blank" >Let's Watch</a></h2>
+<h2>Live Demo <a href="https://lets-watch-zeta.vercel.app/" target="_blank" >Let's Watch</a></h2>
 <h3>Home Page</h3>
 <p>Desktop View</p>
 <img src="https://res.cloudinary.com/dqgbjb6pf/image/upload/v1639021449/let%27s%20Watch/Screenshot_824_z0uwyh.png" style="display:'inline'" />
